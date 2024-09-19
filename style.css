@@ -1,0 +1,19 @@
+.hero{
+    width: 100%;
+    background-image: url(/Rectangle\ 48.png);
+    height: 619px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hero1{
+    width: 100%;
+    background-image: url(/Rectangle\ 47\ \(1\).png);
+    height: 516px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+footer{
+    height: 133px;
+}
